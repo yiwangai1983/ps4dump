@@ -120,29 +120,20 @@ AEREA|5.05|中|<a href='https://pan.baidu.com/s/14ogjKXk5Y8JIsG3Y3uaR-A' target=
 乐高-复仇者联盟|4.55/5.05|繁|<a href='https://pan.baidu.com/s/1KDeXoh0inx9txHBKdEqubw' target='_blank'>下载地址</a>|erah|gz死神bleach|
 银河护卫队|5.05|繁|<a href='https://pan.baidu.com/s/1oJp8iNgvNRjt8SXHt1CWqg' target='_blank'>下载地址</a>|veo2|gz死神bleach|
 阿卡尼亚哥特王朝4||中|<a href='https://pan.baidu.com/s/1cGMtd4bJZVDKf8VOARv0Vg' target='_blank'>下载地址</a>|n3kv|gz死神bleach|
-召唤之夜6 遗失的境界||繁|<a href='https://pan.baidu.com/s/1MHCeRLMF7EBKpRuA5DHfQA' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
-|||<a href='' target='_blank'>下载地址</a>|||
+召唤之夜6 遗失的境界||繁|<a href='https://pan.baidu.com/s/1MHCeRLMF7EBKpRuA5DHfQA' target='_blank'>下载地址</a>|pbtT||
+魔法季节 沉睡的大地||中|<a href='https://pan.baidu.com/s/1eeWTUR39ZkcyR4ZC6DQKag' target='_blank'>下载地址</a>|a50S||
+噢！我好神 VR|4.55/5.05||<a href='https://pan.baidu.com/s/1vtt3EzUcXepJiW4UjE35-Q' target='_blank'>下载地址</a>|u951|BESTWISH|VR
+在远方 追云者编年史|5.05|中|<a href='https://pan.baidu.com/s/1uqNKRm7v1Z3kpu14w30nbA' target='_blank'>下载地址</a>|s8y3|gz死神bleach|
+风之旅人||中|<a href='https://pan.baidu.com/s/1z6-2udllHVx5A5tEDc0TLA' target='_blank'>下载地址</a>|t4um||含补丁 1.01版
+Rabi-Ribi|||<a href='https://pan.baidu.com/s/1xVT32pgA7i7yClcTXSw62A' target='_blank'>下载地址</a>|mtyy||
+暴走甲虫Thumper|5.05|繁|<a href='https://pan.baidu.com/s/1jBRzMLP19F_s9l7JzNqGrw'>下载地址</a>|23um|suwellcc|港版中文1.06（可vr）
+重返德军总部2：新巨像||繁|<a href='https://pan.baidu.com/s/1wrBiCzHfVSwJgkZYdOF2Mw'>下载地址</a>|jtff|gz死神bleach|
+桥 THE BRIDGE||中|<a href='https://pan.baidu.com/s/12zIs9-NAAXC54vcJsSaXkw'>下载地址</a>|9604||
+无药可救pastcure||中|<a href='https://pan.baidu.com/s/14I1UOvQZggzS6FFjSSDFHQ'>下载地址</a>|gd41||
+塞伯利亚之谜3||中|<a href='https://pan.baidu.com/s/1AL5it6Q_1fosEgQIL80zAg'>下载地址</a>|2jce||
+新弹完论破V3|4.55/5.05|中|<a href='https://pan.baidu.com/s/1kIJ0fBK0yOH-LoJ40i81sw'>下载地址</a>|bb4m|gz死神bleach|
+召唤夜响曲 6 消逝的境界|4.55|中|<a href='https://pan.baidu.com/s/18q_YsM6QNjSTaDOzCpWmzw'>下载地址</a>|0x7v||
+不再犹豫 EX版|5.05|中|<a href='https://pan.baidu.com/s/1ZRYusZKf79Xo8b6nxZm0jg'>下载地址</a>|telg|gz死神bleach|
+艾露美 Allumette|5.05/4.55||<a href='https://pan.baidu.com/s/1krDxpl_KxhG72D-Ez3I_EA'>下载地址</a>|1xv9||VR
+亡命小队Bravo Team|5.05|中|<a href='https://pan.baidu.com/s/1u7vgnKwfgSQqMmyAN3D5UA'>下载地址</a>|ib9a|suwellcc|VR, 港版中文1.01
+流放者柯南|5.05|繁|<a href='https://pan.baidu.com/s/1kMfcY8cFrYdOGSmA32am4g'>下载地址</a>|ia70|gz死神bleach|未和谐版

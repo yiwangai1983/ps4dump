@@ -5,7 +5,7 @@
 	* 中 -> 繁体中文+简体中文, 或两个其中的一种
 	* 其他 -> 未标明是否包含简繁体
 	* 有补丁的情况, 请自行去上一页 -> 纯游戏补丁, 按照说明中的序号进行查找
-----
+
 
 游戏  | 试用版本 | 中文支持 | 地址 | 密码 | 解压密码 | 补充说明
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -14,7 +14,7 @@
 神秘海域4 失落的遗产|5.05|繁 |<a href='https://pan.baidu.com/s/1aBjX0lxIndGcdII5AzMXCQ' target='_blank'>下载地址</a>|nedo| TheLastOfUs |
 刺客信条 起源|5.05|繁 |<a href='https://pan.baidu.com/s/1bThGyNOg_8MhX9Nr3XB3dg' target='_blank'>下载地址</a>|n0gu| gz死神bleach |
 真三国无双8|5.05|繁 |<a href='https://pan.baidu.com/s/1Q4qHDj53pS7FVgTXNEzRXQ' target='_blank'>下载地址</a>|N6X1|架空人格|
-勇者斗恶龙11 追寻逝去的时光|5.05|中/（2个DUMP） |<a href='https://pan.baidu.com/s/1bngduU-G146wU0HbHx78Ow' target='_blank'>下载地址</a>|x9x5|一夜倾城哈哈|
+勇者斗恶龙11 追寻逝去的时光|5.05|中 |<a href='https://pan.baidu.com/s/1bngduU-G146wU0HbHx78Ow' target='_blank'>下载地址</a>|x9x5|一夜倾城哈哈|
 最后的生还者/美国末日||中 |<a href='https://pan.baidu.com/s/1kWDfmEN' target='_blank'>下载地址</a>|tq1k||有补丁,序号2
 NBA 2K18||中 |<a href='https://pan.baidu.com/s/1LRaGeTdQJIU3QyWjbuT2kw' target='_blank'>下载地址</a>|6vrt|gudumuyu|
 实况足球2018||其他|<a href='https://pan.baidu.com/s/1R9Xpi8bh0iNXwgAtoT1sHA' target='_blank'>下载地址</a>|3749||有中文补丁,序号3

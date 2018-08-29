@@ -7,8 +7,8 @@
 	* 有补丁的情况, 请自行去上一页 -> 纯游戏补丁, 按照说明中的序号进行查找
 
 
- 游戏 | 试用版本 | 中文支持 | 地址 | 密码 | 解压密码 | 补充说明 |
-:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+ 游戏 | 试用版本 | 中文支持 | 地址 | 密码 | 解压密码 | 补充说明
+:--------:|:--------:|:--------:|:--------:|:--------:|:--------:
 怪物猎人世界| 5.05 | 繁 |<a href='https://pan.baidu.com/s/1NyRswQuJgjx29_hNLgm1lQ' target='_blank'>下载地址</a>|4fj9||有2.00中文补丁,补丁序号1
 战神（战神4）|5.05|繁 |<a href='https://pan.baidu.com/s/1aBjX0lxIndGcdII5AzMXCQ' target='_blank'>下载地址</a>|yrvt| daj0668 |
 神秘海域4 失落的遗产|5.05|繁 |<a href='https://pan.baidu.com/s/1aBjX0lxIndGcdII5AzMXCQ' target='_blank'>下载地址</a>|nedo| TheLastOfUs |

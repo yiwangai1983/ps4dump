@@ -7,7 +7,8 @@
 * [游戏本体或DLC](/游戏本体或DLC.md)
 * [纯游戏补丁](/纯游戏补丁.md)
 * [其他资源](/其他资源.md)
-* [主题等](/主题等)
+* [主题等](/主题等.md)
 
-** 补充资源请发送至邮箱 yiwangai1983@gmail.com 或提交pull request, 良好的环境需要大家共同维护.**
+**补充资源或失效通知请发送信息至邮箱 yiwangai1983@gmail.com 或提交pull request, 良好的环境需要大家共同维护.**
 
+其他资源站点: [PsDump](https://www.psdump.com/) · [极模论坛](https://www.gamestar.top/)

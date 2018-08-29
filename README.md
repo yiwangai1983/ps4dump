@@ -11,4 +11,4 @@
 
 **补充资源或失效通知请发送信息至邮箱 yiwangai1983@gmail.com 或提交pull request, 良好的环境需要大家共同维护.**
 
-其他资源站点: [PsDump](https://www.psdump.com/) · [极模论坛](https://www.gamestar.top/)
+其他资源站点: [PsDump](https://www.psdump.com?_blank/) · [极模论坛](https://www.gamestar.top/)

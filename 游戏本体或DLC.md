@@ -153,7 +153,7 @@
 《重力眩晕》||简|<a href='https://pan.baidu.com/s/1qZzy3uc'>下载地址</a>|gm4d||解压密码：billy5208
 《合金装备5幻痛原爆点》||繁|<a href='https://pan.baidu.com/s/1pNqnu6B'>下载地址</a>|wy6a||包含DLC，解压密码：此游戏作为之前瑞奇与叮当资源搞错的补偿
 《看门狗2》||繁|<a href='https://pan.baidu.com/s/1c2VuOne'>下载地址</a>|zfmw||
-《小小大星球3》||繁|<a href='https://pan.baidu.com/s/1o9JfqEe'>下载地址</a>|vjm6||解压密码：tv.duowan.com
+《小小大星球3》||繁|<a href='https://pan.baidu.com/s/1smTO385'>下载地址</a>|macp||解压密码：tv.duowan.com
 《海贼无双3》||简|<a href='https://pan.baidu.com/s/1c2YI2Ik'>下载地址</a>|gkys||解压密码：tv.duowan.com
 《黑暗之魂3》||繁|<a href='https://pan.baidu.com/s/1bqmXDJx'>下载地址</a>|6v8a||解压密码：tv.duowan.com
 《古墓丽影崛起》||繁|<a href='https://share.weiyun.com/9b773580714e075ef4a0f0fca2d8a12b'>下载地址</a>||

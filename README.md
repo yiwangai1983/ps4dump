@@ -8,8 +8,10 @@
 
 > 3. **本人没有全都进行过测试, 如出现问题请各自承担后果.**
 
-> 3. **<font style='color:red'>正版党请无视我们的存在, 1024, 感谢.</font>**
-> 投稿请以以下格式发送至邮箱:
+> 4. **<font style='color:red'>正版党请无视我们的存在, 1024, 感谢.</font>**
+
+> 5. 投稿请以以下格式发送至邮箱:
+
 ![投稿格式示例](https://github.com/yiwangai1983/ps4dump/blob/master/data/Snipaste_2018-08-30_09-00-13.jpg)
 
 

@@ -11,6 +11,7 @@
 
 游戏  | 试用版本 | 中文支持 | 地址 | 密码 | 解压密码 | 补充说明
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+《富豪街DQ&FF 30周年》|5.05|中|<a href='https://pan.baidu.com/s/1jTc2H9FygVM3PSJN1_wIzw'>下载地址</a>|en7t||
 《最后的守护者》|5.05|简|<a href='https://pan.baidu.com/s/1asGuWz4Sm_X7BZZUBZsY0w'>下载地址</a>|kb7d|说ps4内置不支持3t以上硬盘的别下。|v1.03_国行中文含补丁
 《毁灭战士VR》|5.05|中|<a href='https://pan.baidu.com/s/1eXea9q857uz9SgYrzfTYZg'>下载地址</a>|bt2u|suwellcc|包含补丁
 《城市 天际线》||中|<a href='https://pan.baidu.com/s/1IT9OSQa2KjALA9ZSW1Hlpw'>下载地址</a>|s84a|Packed By Alvin, https://discord.gg/kJwF6BF|v3.0 + DLC 美版中文,@via Alvin 极莫论坛
@@ -18,97 +19,94 @@
 《七龙珠FighterZ》|5.05|繁|<a href='https://pan.baidu.com/s/1VVWVX947ZPtTg9Xfihyngw' target='_blank'>下载地址</a>|h4fj||
 《地平线：黎明时分》年度版||繁|<a href='https://pan.baidu.com/s/1sMyrmQR-eOJLE58XEPXpxQ'>下载地址</a>|g62f||含1.52升级补丁
 《驾驶俱乐部》|5.05|简|<a href='https://pan.baidu.com/s/1bgSd-IAkbL2ENs-rGtuc3Q'>下载地址</a>|8q7b|ps4内置3t以上，该吃ps4了说你呢转基因大米。|
-怪物猎人世界| 5.05 | 繁 |<a href='https://pan.baidu.com/s/1NyRswQuJgjx29_hNLgm1lQ' target='_blank'>下载地址</a>|4fj9||2.0中文补丁,序号1
-战神（战神4）|5.05|繁 |<a href='https://pan.baidu.com/s/1aBjX0lxIndGcdII5AzMXCQ' target='_blank'>下载地址</a>|yrvt| daj0668 |
-神秘海域4 失落的遗产|5.05|繁 |<a href='https://pan.baidu.com/s/1aBjX0lxIndGcdII5AzMXCQ' target='_blank'>下载地址</a>|nedo| TheLastOfUs |
-真三国无双8|5.05|繁 |<a href='https://pan.baidu.com/s/1Q4qHDj53pS7FVgTXNEzRXQ' target='_blank'>下载地址</a>|N6X1|架空人格|
-勇者斗恶龙11 追寻逝去的时光|5.05|中 |<a href='https://pan.baidu.com/s/1bngduU-G146wU0HbHx78Ow' target='_blank'>下载地址</a>|x9x5|一夜倾城哈哈|
-最后的生还者/美国末日||中 |<a href='https://pan.baidu.com/s/1kWDfmEN' target='_blank'>下载地址</a>|tq1k||
-NBA 2K18||中 |<a href='https://pan.baidu.com/s/1LRaGeTdQJIU3QyWjbuT2kw' target='_blank'>下载地址</a>|6vrt|gudumuyu|
-实况足球2018||其他|<a href='https://pan.baidu.com/s/1R9Xpi8bh0iNXwgAtoT1sHA' target='_blank'>下载地址</a>|3749||有中文补丁,序号3
-FIFA18||其他|<a href='https://pan.baidu.com/s/1LNDS3LWoeqIgOdbTxdo1EA' target='_blank'>下载地址</a>|p37j||本体+1.10补丁,4
-女神异闻录5||中|<a href='https://pan.baidu.com/s/1jJjwEW2' target='_blank'>下载地址</a>|r6qe||
-超级机器人大战X||中|<a href='https://pan.baidu.com/s/1cGwDz_1OsCUVe85B90ELsg' target='_blank'>下载地址</a>|b2n7||
-超级机器人大战V||繁|<a href='https://pan.baidu.com/s/1maP3x4esRIs3gCl_5QwlTw' target='_blank'>下载地址</a>|74q2|www.ksohu.com|
-超级机器人大战OG||繁|<a href='https://pan.baidu.com/s/1K2s37HXyGCbmAJZjwRG48w' target='_blank'>下载地址</a>|ovo4||港中含1.01补丁,5
-如龙 极2||繁,简?|<a href='https://pan.baidu.com/s/1xLlioS1uEo1IvZTjPhoaPA' target='_blank'>下载地址</a>|z8az|躺倒之龙|
-使命召唤：二战|5.05|繁|<a href='https://pan.baidu.com/s/1U0-nQ0oUM_N_ZaolRoeeBA' target='_blank'>下载地址</a>|8k42|suwellcc|有补丁,6
-初音未来 歌姬计划 未来音符DX|5.05|繁|<a href='https://pan.baidu.com/s/1qfMofNLiZg-9WrrKdEGNVg' target='_blank'>下载地址</a>|xnpm||有补丁,7
-人中北斗|5.05|繁|<a href='https://pan.baidu.com/s/1BKUCTfdTblx3hqjHz8YwRg' target='_blank'>下载地址</a>|vmnd|如龙塞高|
-进击的巨人2|5.05|中|<a href='https://pan.baidu.com/s/1SlO8dS9feEGmGurjfginrQ' target='_blank'>下载地址</a>|9vxm||
-莉迪与瑟尔的工作室|5.05|繁|<a href='https://pan.baidu.com/s/10qVlLDs25bgtSuh-8XOvIw' target='_blank'>下载地址</a>|xfz5||
-圣剑传说2|5.05|中|<a href='https://pan.baidu.com/s/1qyPnON3Gc270OpJjnMHqWw' target='_blank'>下载地址</a>|gnef||
-战地4||中|<a href='https://pan.baidu.com/s/1lSs6u6n-hp4sd65b_DDhLQ' target='_blank'>下载地址</a>|FL5P||
-隐龙传：影踪||简|<a href='https://pan.baidu.com/s/11IQjjHoxStuWAai767W68g' target='_blank'>下载地址</a>|ievq||
-最终幻想 纷争|5.05|中|<a href='https://pan.baidu.com/s/1J2azTHFJbQ0G6uF7s909wA' target='_blank'>下载地址</a>|644u||
+《怪物猎人世界》| 5.05 | 繁 |<a href='https://pan.baidu.com/s/1NyRswQuJgjx29_hNLgm1lQ' target='_blank'>下载地址</a>|4fj9||2.0中文补丁,序号1
+《战神4》|5.05|繁 |<a href='https://pan.baidu.com/s/1aBjX0lxIndGcdII5AzMXCQ' target='_blank'>下载地址</a>|yrvt| daj0668 |
+《神秘海域4 失落的遗产》|5.05|繁 |<a href='https://pan.baidu.com/s/1aBjX0lxIndGcdII5AzMXCQ' target='_blank'>下载地址</a>|nedo| TheLastOfUs |
+《真三国无双8》|5.05|繁 |<a href='https://pan.baidu.com/s/1Q4qHDj53pS7FVgTXNEzRXQ' target='_blank'>下载地址</a>|N6X1|架空人格|
+《勇者斗恶龙11 追寻逝去的时光》|5.05|中 |<a href='https://pan.baidu.com/s/1bngduU-G146wU0HbHx78Ow' target='_blank'>下载地址</a>|x9x5|一夜倾城哈哈|
+《最后的生还者/美国末日》||中 |<a href='https://pan.baidu.com/s/1kWDfmEN' target='_blank'>下载地址</a>|tq1k||
+《NBA 2K18》||中 |<a href='https://pan.baidu.com/s/1LRaGeTdQJIU3QyWjbuT2kw' target='_blank'>下载地址</a>|6vrt|gudumuyu|
+《实况足球2018》||其他|<a href='https://pan.baidu.com/s/1R9Xpi8bh0iNXwgAtoT1sHA' target='_blank'>下载地址</a>|3749||有中文补丁,序号3
+《FIFA18》||其他|<a href='https://pan.baidu.com/s/1LNDS3LWoeqIgOdbTxdo1EA' target='_blank'>下载地址</a>|p37j||本体+1.10补丁,4
+《女神异闻录5》||中|<a href='https://pan.baidu.com/s/1jJjwEW2' target='_blank'>下载地址</a>|r6qe||
+《超级机器人大战X》||中|<a href='https://pan.baidu.com/s/1cGwDz_1OsCUVe85B90ELsg' target='_blank'>下载地址</a>|b2n7||
+《超级机器人大战V》||繁|<a href='https://pan.baidu.com/s/1maP3x4esRIs3gCl_5QwlTw' target='_blank'>下载地址</a>|74q2|www.ksohu.com|
+《超级机器人大战OG》||繁|<a href='https://pan.baidu.com/s/1K2s37HXyGCbmAJZjwRG48w' target='_blank'>下载地址</a>|ovo4||港中含1.01补丁,5
+《使命召唤：二战》|5.05|繁|<a href='https://pan.baidu.com/s/1U0-nQ0oUM_N_ZaolRoeeBA' target='_blank'>下载地址</a>|8k42|suwellcc|有补丁,6
+《初音未来 歌姬计划 未来音符DX》|5.05|繁|<a href='https://pan.baidu.com/s/1qfMofNLiZg-9WrrKdEGNVg' target='_blank'>下载地址</a>|xnpm||有补丁,7
+《进击的巨人2|5.05》|中|<a href='https://pan.baidu.com/s/1SlO8dS9feEGmGurjfginrQ' target='_blank'>下载地址</a>|9vxm||
+《莉迪与瑟尔的工作室》|5.05|繁|<a href='https://pan.baidu.com/s/10qVlLDs25bgtSuh-8XOvIw' target='_blank'>下载地址</a>|xfz5||
+《圣剑传说2》|5.05|中|<a href='https://pan.baidu.com/s/1qyPnON3Gc270OpJjnMHqWw' target='_blank'>下载地址</a>|gnef||
+《战地4》||中|<a href='https://pan.baidu.com/s/1lSs6u6n-hp4sd65b_DDhLQ' target='_blank'>下载地址</a>|FL5P||
+《隐龙传：影踪》||简|<a href='https://pan.baidu.com/s/11IQjjHoxStuWAai767W68g' target='_blank'>下载地址</a>|ievq||
+《最终幻想 纷争》|5.05|中|<a href='https://pan.baidu.com/s/1J2azTHFJbQ0G6uF7s909wA' target='_blank'>下载地址</a>|644u||
 《七龙珠FighterZ》|5.05|英|<a href='https://pan.baidu.com/s/1tBAjtcVeOVdrH6RyYjcEXA' target='_blank'>下载地址</a>|e547||
-Djmax Respect|5.05|日|<a href='https://pan.baidu.com/s/1LmRIpgNjAwd6xFmyWDRlxQ' target='_blank'>下载地址</a>|1abc||补丁+dlc
-菲莉丝的工作室-不思议之旅的炼金术士|5.05|中|<a href='https://pan.baidu.com/s/1zI9FIbqhSbGdRiU8czkDAw' target='_blank'>下载地址</a>|p0j2||
-蓝色映像 幻舞少女之剑||繁|<a href='https://pan.baidu.com/s/1v9cmsgngOnj-7Vr0ZJjpVQ' target='_blank'>下载地址</a>|sxut||单PKG下载
-街头霸王30周年||中|<a href='https://pan.baidu.com/s/1mn1rBV6fHRQOcdhKbTTiiA' target='_blank'>下载地址</a>|||
-旺达与巨像重置版|5.05|中|<a href='https://pan.baidu.com/s/161LQWnzX1TZY-g6SYEpGwg' target='_blank'>下载地址</a>|5x5k||
-刀剑神域 夺命凶弹|5.05|中|<a href='https://pan.baidu.com/s/1BjfpahioJrIQs45MZOJuOQ' target='_blank'>下载地址</a>|of6z||
-蓝色映像 幻舞少女之剑||繁|<a href='https://pan.baidu.com/s/16dokR0x7AVORx371aFAQnw' target='_blank'>下载地址</a>|lq2r||带1.01升级补丁
-闪乱神乐：沙滩戏水||中|<a href='https://pan.baidu.com/s/12JpbxRCtbNXt-UFrzhmqBg' target='_blank'>下载地址</a>|n7iw||含本体,去圣光,dlc
-漫画英雄VS卡普空：无限||中|<a href='https://pan.baidu.com/s/1w1PWApn1unABnwla_yiWmw#list/path=%2F' target='_blank'>下载地址</a>|||
-撕纸小邮差||繁|<a href='https://pan.baidu.com/s/10Z5iYlhezrzbx95_CHy2dQ' target='_blank'>下载地址</a>|q2mz|kangkang000|
-厕所穿越记||中|<a href='https://pan.baidu.com/s/1pmGg01BpQdMdStdMhaad9g' target='_blank'>下载地址</a>|neuq||
-钠克大冒险2-双英与古代兵团|||<a href='https://pan.baidu.com/s/1y3LzQkL2HIsAihp0E3_dtg' target='_blank'>下载地址</a>|4iok|莱恩克斯首次DUMP|
-数码宝贝故事：赛博侦探黑客的记忆|5.05||<a href='https://pan.baidu.com/s/1h1Um4l_ZJaszqtgU8Vxgeg' target='_blank'>下载地址</a>|6xhh||
-重力晕眩2|5.05|繁(机翻)|<a href='https://pan.baidu.com/s/1gTlS7Qiq0E5ZQHNg1xbs_w' target='_blank'>下载地址</a>|udfe||1.11+DLC
-光明之响 龙奏回音|5.05|中|<a href='https://pan.baidu.com/s/1NtLS1notrQoQKQxat-j6nA' target='_blank'>下载地址</a>|siip||
-盐与避难所||中|<a href='https://pan.baidu.com/s/1KX1ePDZFUI5p712JGMgoDg' target='_blank'>下载地址</a>|8f1t||
-V！勇者别嚣张R|5.05||<a href='繁' target='_blank'>下载地址</a>|tbbq||VR,含1.01补丁
-隐龙传：影踪|||<a href='https://pan.baidu.com/s/1-b7Sp8YvJnd4gSixlBU7-g' target='_blank'>下载地址</a>|trrc||
-七龍珠FighterZ||中|<a href='https://pan.baidu.com/s/1VVWVX947ZPtTg9Xfihyngw' target='_blank'>下载地址</a>|h4fj||
-新世纪战甲大赛 机械化战斗联盟||中|<a href='https://pan.baidu.com/s/1Ag79uT4glrZPzNev6FG1sQ' target='_blank'>下载地址</a>|sw8t||v1.01
-UFC 3|5.05|中|<a href='https://pan.baidu.com/s/1Z8XBVwHE8qyKxp1Ew1d8aw' target='_blank'>下载地址</a>|||
-异化||中|<a href='https://pan.baidu.com/s/1UeUzjPaISD4aKowN5M-vxA' target='_blank'>下载地址</a>|ij83|kangkang000|1.06补丁+全DLC
-积木世界||中|<a href='https://pan.baidu.com/s/1Z1rHFsyLGQKXwmGRFr4kZQ' target='_blank'>下载地址</a>|thuc||VR
-假面骑士创生|||<a href='https://pan.baidu.com/s/1KIMRUNvJKYB6X4QnkGUKgg' target='_blank'>下载地址</a>|2ny9||
-七大罪布里塔尼亞的旅人||繁|<a href='https://pan.baidu.com/s/17wei-yDh8BIDi8LFalmFvg' target='_blank'>下载地址</a>|rh9z|感谢gz死神bleach大神无私奉献|
-银魂乱舞|||<a href='https://pan.baidu.com/s/1Ub7OcrrQuFQWhmUzRAvcFQ' target='_blank'>下载地址</a>|YsCw||抱歉我看到这资源的时候不知道从哪里来的
-太鼓达人||中|<a href='https://pan.baidu.com/s/1BPQITgIjTFYHJli9DL4P8w' target='_blank'>下载地址</a>|irpx||
-最后守护者||繁|<a href='https://pan.baidu.com/s/1mjmFgla' target='_blank'>下载地址</a>|mbtu||
-丧尸围城4：弗兰克的大包裹||中|<a href='https://pan.baidu.com/s/1l3lN-lShNQY4LxEpxYTXPA' target='_blank'>下载地址</a>|||
-神奇小子 龙之陷阱3|5.05|繁|<a href='https://pan.baidu.com/s/1YRWzPTQEa4zTgVJuX8EMtg' target='_blank'>下载地址</a>|tyqd|gz死神bleach|
-真三国无双 英杰传||中|<a href='https://pan.baidu.com/s/1ypQV9bU9VlYVcEwGdueLbw' target='_blank'>下载地址</a>|ccvw||
-苍蓝革命女武神||中|<a href='https://pan.baidu.com/s/1bpWc2vX' target='_blank'>下载地址</a>|46y7||
-巫师3 年度版||中|<a href='https://pan.baidu.com/s/1o9bgSP0' target='_blank'>下载地址</a>|cfg1|毛毛是乖孩子|包含DLC石之心和血与酒,有补丁,8
-中土世界 战争之影||简|<a href='https://pan.baidu.com/s/1dFlFU8Ie3RaATpfwrUnw1Q' target='_blank'>下载地址</a>|Bn66||
-啪嗒砰/战鼓啪打碰||繁|<a href='https://pan.baidu.com/s/1yAgCKnm4Jzfu-0NJzEVVLQ' target='_blank'>下载地址</a>|g2dt||
-加速世界VS刀剑神域 千年之黄昏|5.05|繁|<a href='https://pan.baidu.com/s/10oQiNMWTOFBXMJIt_mcuug' target='_blank'>下载地址</a>|8uew||
-鬼泣 1-3||中|<a href='https://pan.baidu.com/s/1JNXdmJwFpSRjAbxumnBVXQ' target='_blank'>下载地址</a>|hdsi||
-彩虹六号围攻||简|<a href='https://pan.baidu.com/s/1vAfRIGKsYv3wwx1pZjA8_g' target='_blank'>下载地址</a>|zmwf||
-无夜之国2新月的花嫁||繁|<a href='https://pan.baidu.com/s/1LaPMa-jt3ihVBnjGDrVnGQ' target='_blank'>下载地址</a>|i1mu||
-噬神者 复活||繁|<a href='https://pan.baidu.com/s/1UDrlIcuMKvDbP0oRCQzgYQ' target='_blank'>下载地址</a>|g15w||
-Inside||简/繁|<a href='https://pan.baidu.com/s/1kBKQM0e_reQPyeWOwvQVqA' target='_blank'>下载地址</a>|cmva||
-遥远星际||简|<a href='https://pan.baidu.com/s/1V3dYbFOM1E5cp_jQvW9eNw' target='_blank'>下载地址</a>|J78b||带1.08补丁
-美國職棒大聯盟 18|||<a href='https://pan.baidu.com/s/1DKIHgj469Uj_WhNQteM9-w#list/path=%2F' target='_blank'>下载地址</a>|||
-黑手党3||繁|<a href='https://pan.baidu.com/s/157fNrl5s7nLfu7RdYfREwA' target='_blank'>下载地址</a>|btcz||含109补丁
-上古卷轴 VR|5.05|繁|<a href='https://pan.baidu.com/s/1a4dCTRs-Eoa6Q1IncuV_-w' target='_blank'>下载地址</a>|e69q||带1.03补丁
-召唤之夜6 遗失的境界||繁|<a href='https://pan.baidu.com/s/1MHCeRLMF7EBKpRuA5DHfQA' target='_blank'>下载地址</a>|pbtT||
-Rabi-Ribi|||<a href='https://pan.baidu.com/s/1xVT32pgA7i7yClcTXSw62A' target='_blank'>下载地址</a>|mtyy||
-暴走甲虫Thumper|5.05|繁|<a href='https://pan.baidu.com/s/1jBRzMLP19F_s9l7JzNqGrw'>下载地址</a>|23um|suwellcc|港版中文1.06（可vr）
-召唤夜响曲 6 消逝的境界|4.55|中|<a href='https://pan.baidu.com/s/18q_YsM6QNjSTaDOzCpWmzw'>下载地址</a>|0x7v||
-亡命小队Bravo Team|5.05|中|<a href='https://pan.baidu.com/s/1u7vgnKwfgSQqMmyAN3D5UA'>下载地址</a>|ib9a|suwellcc|VR, 港版中文1.01
-耻辱2||中|<a href='https://pan.baidu.com/s/13I6svrGDwzmvrZpn7agRcg'>下载地址</a>|32cw|第一次自DUMP分享不喜匆喷|
-幻想的轮舞 / 东方计划 幻想圆舞曲||中|<a href='https://pan.baidu.com/s/1wAdVjqPhjOW2koREmuIAQA'>下载地址</a>|mdjx||
-以撒的结合：重生||简|<a href='https://pan.baidu.com/s/1RqnkW3HLyWksd7NDz-eZNA'>下载地址</a>|fe1k||v1.07
-光明之子||中|<a href='https://pan.baidu.com/s/1ACql3nF2ihxyYPTooIhrGQ'>下载地址</a>|xy8p|想不出密码了billy5208|国语配音
-星露谷物语||中|<a href='https://pan.baidu.com/s/15HtwHl2RKhVWo59JsS8ijw'>下载地址</a>|cgb1||含1.20补丁
-SD高达G世界 创世||中|<a href='https://pan.baidu.com/s/1eLyL9TKKlmeZOxQEA5753Q'>下载地址</a>|dacb||
-少女与战车 梦幻战车对决||中|<a href='https://pan.baidu.com/s/1nYUAJL-64DwHcw3v1elzgQ'>下载地址</a>|2uxe||
-横冲直撞4 癫狂||中|<a href='https://pan.baidu.com/s/1y8FjSiLL0IuxL_MTlFAICQ'>下载地址</a>|9ty1||单PKG为升级补丁
-暗黑血统2终极版|4.05/4.55|中|<a href='https://pan.baidu.com/s/1zf4ajYNyYzQXmmo_L0SX2w'>下载地址</a>|3im6||
-剑风传奇无双||中|<a href='https://pan.baidu.com/share/init?surl=X4NmLPJ52qmouVbitjsaiw'>下载地址</a>|a2ke|中华神皂分享|
-鬼泣 终极版||英|<a href='https://pan.baidu.com/share/init?surl=SSUhcndKgKXqe-grJB6jtg'>下载地址</a>|bsdm||
-秋叶原之旅2||繁|<a href='https://pan.baidu.com/share/init?surl=0YxMeJgc-NqEuDh0u6nOrw'>下载地址</a>|8ex1||
-战国无双 真田丸||中|<a href='https://pan.baidu.com/share/init?surl=SAZ5FoZaImVPTVJHFUfsdA'>下载地址</a>|7hb7||多玩中华神皂分享
-街霸5||中|<a href='https://pan.baidu.com/share/init?surl=fiye9LjT9uePZXHlL1bMhQ'>下载地址</a>|8429||解压密码：密码：没有密码
-霜雪 RIME||英|<a href='https://pan.baidu.com/share/init?surl=s_hvz6gJ33Zjzx-gmVCKrw'>下载地址</a>|nu7h||
-最后的修补匠：彩色之城||英|<a href='https://pan.baidu.com/share/init?surl=uoAqExKKVt13BVe57CUbOQ'>下载地址</a>|uxd8||
-||中|<a href=''>下载地址</a>|||
+《Djmax Respect》|5.05|日|<a href='https://pan.baidu.com/s/1LmRIpgNjAwd6xFmyWDRlxQ' target='_blank'>下载地址</a>|1abc||补丁+dlc
+《菲莉丝的工作室-不思议之旅的炼金术士》|5.05|中|<a href='https://pan.baidu.com/s/1zI9FIbqhSbGdRiU8czkDAw' target='_blank'>下载地址</a>|p0j2||
+《蓝色映像 幻舞少女之剑》||繁|<a href='https://pan.baidu.com/s/1v9cmsgngOnj-7Vr0ZJjpVQ' target='_blank'>下载地址</a>|sxut||单PKG下载
+《街头霸王30周年》||中|<a href='https://pan.baidu.com/s/1mn1rBV6fHRQOcdhKbTTiiA' target='_blank'>下载地址</a>|||
+《旺达与巨像重置版》|5.05|中|<a href='https://pan.baidu.com/s/161LQWnzX1TZY-g6SYEpGwg' target='_blank'>下载地址</a>|5x5k||
+《刀剑神域 夺命凶弹》|5.05|中|<a href='https://pan.baidu.com/s/1BjfpahioJrIQs45MZOJuOQ' target='_blank'>下载地址</a>|of6z||
+《蓝色映像 幻舞少女之剑》||繁|<a href='https://pan.baidu.com/s/16dokR0x7AVORx371aFAQnw' target='_blank'>下载地址</a>|lq2r||带1.01升级补丁
+《闪乱神乐：沙滩戏水》||中|<a href='https://pan.baidu.com/s/12JpbxRCtbNXt-UFrzhmqBg' target='_blank'>下载地址</a>|n7iw||含本体,去圣光,dlc
+《漫画英雄VS卡普空：无限》||中|<a href='https://pan.baidu.com/s/1w1PWApn1unABnwla_yiWmw#list/path=%2F' target='_blank'>下载地址</a>|||
+《撕纸小邮差》||繁|<a href='https://pan.baidu.com/s/10Z5iYlhezrzbx95_CHy2dQ' target='_blank'>下载地址</a>|q2mz|kangkang000|
+《厕所穿越记》||中|<a href='https://pan.baidu.com/s/1pmGg01BpQdMdStdMhaad9g' target='_blank'>下载地址</a>|neuq||
+《钠克大冒险2-双英与古代兵团》|||<a href='https://pan.baidu.com/s/1y3LzQkL2HIsAihp0E3_dtg' target='_blank'>下载地址</a>|4iok|莱恩克斯首次DUMP|
+《数码宝贝故事：赛博侦探黑客的记忆》|5.05||<a href='https://pan.baidu.com/s/1h1Um4l_ZJaszqtgU8Vxgeg' target='_blank'>下载地址</a>|6xhh||
+《重力晕眩2》|5.05|繁(机翻)|<a href='https://pan.baidu.com/s/1gTlS7Qiq0E5ZQHNg1xbs_w' target='_blank'>下载地址</a>|udfe||1.11+DLC
+《光明之响 龙奏回音》|5.05|中|<a href='https://pan.baidu.com/s/1NtLS1notrQoQKQxat-j6nA' target='_blank'>下载地址</a>|siip||
+《盐与避难所》||中|<a href='https://pan.baidu.com/s/1KX1ePDZFUI5p712JGMgoDg' target='_blank'>下载地址</a>|8f1t||
+《V！勇者别嚣张R》|5.05||<a href='繁' target='_blank'>下载地址</a>|tbbq||VR,含1.01补丁
+《隐龙传：影踪》|||<a href='https://pan.baidu.com/s/1-b7Sp8YvJnd4gSixlBU7-g' target='_blank'>下载地址</a>|trrc||
+《七龍珠FighterZ》||中|<a href='https://pan.baidu.com/s/1VVWVX947ZPtTg9Xfihyngw' target='_blank'>下载地址</a>|h4fj||
+《新世纪战甲大赛 机械化战斗联盟》||中|<a href='https://pan.baidu.com/s/1Ag79uT4glrZPzNev6FG1sQ' target='_blank'>下载地址</a>|sw8t||v1.01
+《UFC 3》|5.05|中|<a href='https://pan.baidu.com/s/1Z8XBVwHE8qyKxp1Ew1d8aw' target='_blank'>下载地址</a>|||
+《异化》||中|<a href='https://pan.baidu.com/s/1UeUzjPaISD4aKowN5M-vxA' target='_blank'>下载地址</a>|ij83|kangkang000|1.06补丁+全DLC
+《积木世界》||中|<a href='https://pan.baidu.com/s/1Z1rHFsyLGQKXwmGRFr4kZQ' target='_blank'>下载地址</a>|thuc||VR
+《假面骑士创生》|||<a href='https://pan.baidu.com/s/1KIMRUNvJKYB6X4QnkGUKgg' target='_blank'>下载地址</a>|2ny9||
+《七大罪布里塔尼亞的旅人》||繁|<a href='https://pan.baidu.com/s/17wei-yDh8BIDi8LFalmFvg' target='_blank'>下载地址</a>|rh9z|感谢gz死神bleach大神无私奉献|
+《银魂乱舞》|||<a href='https://pan.baidu.com/s/1Ub7OcrrQuFQWhmUzRAvcFQ' target='_blank'>下载地址</a>|YsCw||抱歉我看到这资源的时候不知道从哪里来的
+《太鼓达人》||中|<a href='https://pan.baidu.com/s/1BPQITgIjTFYHJli9DL4P8w' target='_blank'>下载地址</a>|irpx||
+《最后守护者》||繁|<a href='https://pan.baidu.com/s/1mjmFgla' target='_blank'>下载地址</a>|mbtu||
+《丧尸围城4：弗兰克的大包裹》||中|<a href='https://pan.baidu.com/s/1l3lN-lShNQY4LxEpxYTXPA' target='_blank'>下载地址</a>|||
+《神奇小子 龙之陷阱3》|5.05|繁|<a href='https://pan.baidu.com/s/1YRWzPTQEa4zTgVJuX8EMtg' target='_blank'>下载地址</a>|tyqd|gz死神bleach|
+《真三国无双 英杰传》||中|<a href='https://pan.baidu.com/s/1ypQV9bU9VlYVcEwGdueLbw' target='_blank'>下载地址</a>|ccvw||
+《苍蓝革命女武神》||中|<a href='https://pan.baidu.com/s/1bpWc2vX' target='_blank'>下载地址</a>|46y7||
+《巫师3 年度版》||中|<a href='https://pan.baidu.com/s/1o9bgSP0' target='_blank'>下载地址</a>|cfg1|毛毛是乖孩子|包含DLC石之心和血与酒,有补丁,8
+《中土世界 战争之影》||简|<a href='https://pan.baidu.com/s/1dFlFU8Ie3RaATpfwrUnw1Q' target='_blank'>下载地址</a>|Bn66||
+《啪嗒砰/战鼓啪打碰》||繁|<a href='https://pan.baidu.com/s/1yAgCKnm4Jzfu-0NJzEVVLQ' target='_blank'>下载地址</a>|g2dt||
+《加速世界VS刀剑神域 千年之黄昏》|5.05|繁|<a href='https://pan.baidu.com/s/10oQiNMWTOFBXMJIt_mcuug' target='_blank'>下载地址</a>|8uew||
+《鬼泣 1-3》||中|<a href='https://pan.baidu.com/s/1JNXdmJwFpSRjAbxumnBVXQ' target='_blank'>下载地址</a>|hdsi||
+《彩虹六号围攻》||简|<a href='https://pan.baidu.com/s/1vAfRIGKsYv3wwx1pZjA8_g' target='_blank'>下载地址</a>|zmwf||
+《无夜之国2新月的花嫁》||繁|<a href='https://pan.baidu.com/s/1LaPMa-jt3ihVBnjGDrVnGQ' target='_blank'>下载地址</a>|i1mu||
+《噬神者 复活》||繁|<a href='https://pan.baidu.com/s/1UDrlIcuMKvDbP0oRCQzgYQ' target='_blank'>下载地址</a>|g15w||
+《Inside》||简/繁|<a href='https://pan.baidu.com/s/1kBKQM0e_reQPyeWOwvQVqA' target='_blank'>下载地址</a>|cmva||
+《遥远星际》||简|<a href='https://pan.baidu.com/s/1V3dYbFOM1E5cp_jQvW9eNw' target='_blank'>下载地址</a>|J78b||带1.08补丁
+《美國職棒大聯盟 18》|||<a href='https://pan.baidu.com/s/1DKIHgj469Uj_WhNQteM9-w#list/path=%2F' target='_blank'>下载地址</a>|||
+《黑手党3》||繁|<a href='https://pan.baidu.com/s/157fNrl5s7nLfu7RdYfREwA' target='_blank'>下载地址</a>|btcz||含109补丁
+《上古卷轴 VR》|5.05|繁|<a href='https://pan.baidu.com/s/1a4dCTRs-Eoa6Q1IncuV_-w' target='_blank'>下载地址</a>|e69q||带1.03补丁
+《召唤之夜6 遗失的境界》||繁|<a href='https://pan.baidu.com/s/1MHCeRLMF7EBKpRuA5DHfQA' target='_blank'>下载地址</a>|pbtT||
+《Rabi-Ribi》|||<a href='https://pan.baidu.com/s/1xVT32pgA7i7yClcTXSw62A' target='_blank'>下载地址</a>|mtyy||
+《暴走甲虫Thumper》|5.05|繁|<a href='https://pan.baidu.com/s/1jBRzMLP19F_s9l7JzNqGrw'>下载地址</a>|23um|suwellcc|港版中文1.06（可vr）
+《召唤夜响曲 6 消逝的境界》|4.55|中|<a href='https://pan.baidu.com/s/18q_YsM6QNjSTaDOzCpWmzw'>下载地址</a>|0x7v||
+《亡命小队Bravo Team》|5.05|中|<a href='https://pan.baidu.com/s/1u7vgnKwfgSQqMmyAN3D5UA'>下载地址</a>|ib9a|suwellcc|VR, 港版中文1.01
+《耻辱2》||中|<a href='https://pan.baidu.com/s/13I6svrGDwzmvrZpn7agRcg'>下载地址</a>|32cw|第一次自DUMP分享不喜匆喷|
+《幻想的轮舞 / 东方计划 幻想圆舞曲》||中|<a href='https://pan.baidu.com/s/1wAdVjqPhjOW2koREmuIAQA'>下载地址</a>|mdjx||
+《以撒的结合：重生》||简|<a href='https://pan.baidu.com/s/1RqnkW3HLyWksd7NDz-eZNA'>下载地址</a>|fe1k||v1.07
+《光明之子》||中|<a href='https://pan.baidu.com/s/1ACql3nF2ihxyYPTooIhrGQ'>下载地址</a>|xy8p|想不出密码了billy5208|国语配音
+《星露谷物语》||中|<a href='https://pan.baidu.com/s/15HtwHl2RKhVWo59JsS8ijw'>下载地址</a>|cgb1||含1.20补丁
+《SD高达G世界 创世》||中|<a href='https://pan.baidu.com/s/1eLyL9TKKlmeZOxQEA5753Q'>下载地址</a>|dacb||
+《少女与战车 梦幻战车对决》||中|<a href='https://pan.baidu.com/s/1nYUAJL-64DwHcw3v1elzgQ'>下载地址</a>|2uxe||
+《横冲直撞4 癫狂》||中|<a href='https://pan.baidu.com/s/1y8FjSiLL0IuxL_MTlFAICQ'>下载地址</a>|9ty1||单PKG为升级补丁
+《暗黑血统2》终极版|4.05/4.55|中|<a href='https://pan.baidu.com/s/1zf4ajYNyYzQXmmo_L0SX2w'>下载地址</a>|3im6||
+《剑风传奇无双》||中|<a href='https://pan.baidu.com/share/init?surl=X4NmLPJ52qmouVbitjsaiw'>下载地址</a>|a2ke|中华神皂分享|
+《鬼泣》 终极版||英|<a href='https://pan.baidu.com/share/init?surl=SSUhcndKgKXqe-grJB6jtg'>下载地址</a>|bsdm||
+《秋叶原之旅2》||繁|<a href='https://pan.baidu.com/share/init?surl=0YxMeJgc-NqEuDh0u6nOrw'>下载地址</a>|8ex1||
+《战国无双 真田丸》||中|<a href='https://pan.baidu.com/share/init?surl=SAZ5FoZaImVPTVJHFUfsdA'>下载地址</a>|7hb7||多玩中华神皂分享
+《街霸5》||中|<a href='https://pan.baidu.com/share/init?surl=fiye9LjT9uePZXHlL1bMhQ'>下载地址</a>|8429||解压密码：密码：没有密码
+《霜雪 RIME》||英|<a href='https://pan.baidu.com/share/init?surl=s_hvz6gJ33Zjzx-gmVCKrw'>下载地址</a>|nu7h||
+《最后的修补匠：彩色之城》||英|<a href='https://pan.baidu.com/share/init?surl=uoAqExKKVt13BVe57CUbOQ'>下载地址</a>|uxd8||
 《死或生沙滩排球3》||繁中|<a href='https://pan.baidu.com/share/init?surl=FzAM-18AoJlDYYLzb1j3vQ'>下载地址</a>|tbex||增加1.16版本
 《闪乱神乐夏日对决少女们的选择》||繁中|<a href='https://pan.baidu.com/share/init?surl=A0goQkDkheCs5tJWeDCKyg'>下载地址</a>|vh4f||
 《黑暗之魂2原罪哲人》||繁中|<a href='https://pan.baidu.com/share/init?surl=an4EcgNcTXdifZIOrLuGnw'>下载地址</a>|ahnr||加入1.02版本
@@ -159,8 +157,11 @@ SD高达G世界 创世||中|<a href='https://pan.baidu.com/s/1eLyL9TKKlmeZOxQEA5
 《巫师3》||港版繁体中文|<a href='https://pan.baidu.com/s/1bpRsNV5'>下载地址</a>|ewqs||
 《刀剑神域失落之歌》||繁中|<a href='https://pan.baidu.com/s/1pMNgLAF'>下载地址</a>|51cg||
 《声名狼藉:次子》||繁中|<a href='https://pan.baidu.com/s/1c4bGtbi'>下载地址</a>|uii6||解压loveps4.com
-《如龙：极1》||繁中|<a href='https://pan.baidu.com/s/1c3GH90c'>下载地址</a>|up2o||
+《如龙0：起誓之地》||繁体中文|<a href='https://pan.baidu.com/s/1bqveG5h'>下载地址</a>|F0K3||
+《如龙 极1》||繁中|<a href='https://pan.baidu.com/s/1c3GH90c'>下载地址</a>|up2o||
+《如龙 极2》||中|<a href='https://pan.baidu.com/s/1xLlioS1uEo1IvZTjPhoaPA' target='_blank'>下载地址</a>|z8az|躺倒之龙|
 《如龙6命之诗》||港版繁体中文|<a href='https://pan.baidu.com/s/1dOTkvk'>下载地址</a>|4eac||
+《人中北斗》|5.05|繁|<a href='https://pan.baidu.com/s/1BKUCTfdTblx3hqjHz8YwRg' target='_blank'>下载地址</a>|vmnd|如龙塞高|
 《血源诅咒：老猎人》||（含dlc）港版繁体中文|<a href='https://pan.baidu.com/s/1jJukBFw'>下载地址</a>|r5al||
 《大蛇无双2蛇魔》||港版繁体中文|<a href='https://pan.baidu.com/s/1nwZvW4T'>下载地址</a>|p4tm||
 《血源诅咒普通版》||中文版|<a href='https://pan.baidu.com/s/1o979AwM'>下载地址</a>|q4bf||
@@ -171,7 +172,6 @@ SD高达G世界 创世||中|<a href='https://pan.baidu.com/s/1eLyL9TKKlmeZOxQEA5
 《古墓丽影崛起20周年纪念版》||英|<a href='https://pan.baidu.com/s/1mkiRrPA'>下载地址</a>|ecuc||
 《战神3重制版》||港版繁体中文|<a href='https://pan.baidu.com/s/1iRDgwfe_COdYWvUQOp2gtg'>下载地址</a>|ftcj||
 《我的世界》||繁体中文|<a href='https://pan.baidu.com/s/1dGeL7w9'>下载地址</a>|dibu||
-《如龙0：起誓之地》||繁体中文|<a href='https://pan.baidu.com/s/1bqveG5h'>下载地址</a>|F0K3||
 《勇者斗恶龙创世小玩家》||繁中|<a href='https://pan.baidu.com/s/1jJVyjhc'>下载地址</a>|p1sf||
 《高达破坏者3》||繁中|<a href='https://pan.baidu.com/s/1c3h5z4c'>下载地址</a>|d7vt||
 《侠盗猎车5GTA5》||港版繁体中文|<a href='https://pan.baidu.com/s/1eUjJ0ie'>下载地址</a>|q5ns||

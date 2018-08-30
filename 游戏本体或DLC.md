@@ -275,7 +275,7 @@ PS4用PS2游戏《合金弹头合集》|||<a href='https://pan.baidu.com/s/1HOGp
 《地下城2》||中|<a href='https://pan.baidu.com/s/17GerFt2V6jq0s9kCf8ajXg'>下载地址</a>|p5k0||
 《堕落之王》||中|<a href='https://pan.baidu.com/s/17ZBdaVwUUb-s--oFz6eCUA'>下载地址</a>|mue5||
 《秋叶原妄想物语》||中|<a href='https://pan.baidu.com/s/1JCmXWhDEMYRi5QOYUgAZOA'>下载地址</a>|m4us||
-实况足球16中文|<a href='https://pan.baidu.com/s/1z7X7kGvJlMEDMbi3vFMf_w'>下载地址</a>|6feh||
+实况足球16||中|<a href='https://pan.baidu.com/s/1z7X7kGvJlMEDMbi3vFMf_w'>下载地址</a>|6feh||
 《极品飞车18宿敌》|||<a href='https://pan.baidu.com/share/init?surl=AeQQMKKhJOOt0JfS4JOMYg'>下载地址</a>|78cj||
 《WWE美国职业摔角联盟2K17》|||<a href='https://pan.baidu.com/share/init?surl=eBXOQriTEgPPy60pbbeBxA'>下载地址</a>|45xj||
 《尘埃拉力赛》||英|<a href='https://pan.baidu.com/share/init?surl=Gp2vfY_Ih5Hv_j3mxEEwQQ'>下载地址</a>|9gss||

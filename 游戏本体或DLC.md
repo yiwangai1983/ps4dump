@@ -6,10 +6,18 @@
 	* 其他 -> 未标明是否包含简繁体
 	* 没写简繁的很大几率也是中文游戏,毕竟都是咱们自己网友整理的
 	* 有补丁的情况, 请自行去上一页 -> 纯游戏补丁, 按照说明中的序号进行查找
+	* **解压密码一般是全都复制上, 包括标点符号空格之类**
 
 
 游戏  | 试用版本 | 中文支持 | 地址 | 密码 | 解压密码 | 补充说明
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+《最后的守护者》|5.05|简|<a href='https://pan.baidu.com/s/1asGuWz4Sm_X7BZZUBZsY0w'>下载地址</a>|kb7d|说ps4内置不支持3t以上硬盘的别下。|v1.03_国行中文含补丁
+《毁灭战士VR》|5.05|中|<a href='https://pan.baidu.com/s/1eXea9q857uz9SgYrzfTYZg'>下载地址</a>|bt2u|suwellcc|包含补丁
+《城市 天际线》||中|<a href='https://pan.baidu.com/s/1IT9OSQa2KjALA9ZSW1Hlpw'>下载地址</a>|s84a|Packed By Alvin, https://discord.gg/kJwF6BF|v3.0 + DLC 美版中文,@via Alvin 极莫论坛
+《信客刺条 起源》+ DLC||繁|<a href='https://pan.baidu.com/s/12Nn3ZSXr29T4c-OUSVNaiQ'>下载地址</a>|1dkr||含1.41补丁
+《七龙珠FighterZ》|5.05|繁|<a href='https://pan.baidu.com/s/1VVWVX947ZPtTg9Xfihyngw' target='_blank'>下载地址</a>|h4fj||
+《地平线：黎明时分》年度版||繁|<a href='https://pan.baidu.com/s/1sMyrmQR-eOJLE58XEPXpxQ'>下载地址</a>|g62f||含1.52升级补丁
+《驾驶俱乐部》|5.05|简|<a href='https://pan.baidu.com/s/1bgSd-IAkbL2ENs-rGtuc3Q'>下载地址</a>|8q7b|ps4内置3t以上，该吃ps4了说你呢转基因大米。|
 怪物猎人世界| 5.05 | 繁 |<a href='https://pan.baidu.com/s/1NyRswQuJgjx29_hNLgm1lQ' target='_blank'>下载地址</a>|4fj9||2.0中文补丁,序号1
 战神（战神4）|5.05|繁 |<a href='https://pan.baidu.com/s/1aBjX0lxIndGcdII5AzMXCQ' target='_blank'>下载地址</a>|yrvt| daj0668 |
 神秘海域4 失落的遗产|5.05|繁 |<a href='https://pan.baidu.com/s/1aBjX0lxIndGcdII5AzMXCQ' target='_blank'>下载地址</a>|nedo| TheLastOfUs |
@@ -33,7 +41,7 @@ FIFA18||其他|<a href='https://pan.baidu.com/s/1LNDS3LWoeqIgOdbTxdo1EA' target=
 战地4||中|<a href='https://pan.baidu.com/s/1lSs6u6n-hp4sd65b_DDhLQ' target='_blank'>下载地址</a>|FL5P||
 隐龙传：影踪||简|<a href='https://pan.baidu.com/s/11IQjjHoxStuWAai767W68g' target='_blank'>下载地址</a>|ievq||
 最终幻想 纷争|5.05|中|<a href='https://pan.baidu.com/s/1J2azTHFJbQ0G6uF7s909wA' target='_blank'>下载地址</a>|644u||
-龙珠 战士Z|5.05|英|<a href='https://pan.baidu.com/s/1tBAjtcVeOVdrH6RyYjcEXA' target='_blank'>下载地址</a>|e547||
+《七龙珠FighterZ》|5.05|英|<a href='https://pan.baidu.com/s/1tBAjtcVeOVdrH6RyYjcEXA' target='_blank'>下载地址</a>|e547||
 Djmax Respect|5.05|日|<a href='https://pan.baidu.com/s/1LmRIpgNjAwd6xFmyWDRlxQ' target='_blank'>下载地址</a>|1abc||补丁+dlc
 菲莉丝的工作室-不思议之旅的炼金术士|5.05|中|<a href='https://pan.baidu.com/s/1zI9FIbqhSbGdRiU8czkDAw' target='_blank'>下载地址</a>|p0j2||
 蓝色映像 幻舞少女之剑||繁|<a href='https://pan.baidu.com/s/1v9cmsgngOnj-7Vr0ZJjpVQ' target='_blank'>下载地址</a>|sxut||单PKG下载
@@ -151,7 +159,7 @@ SD高达G世界 创世||中|<a href='https://pan.baidu.com/s/1eLyL9TKKlmeZOxQEA5
 《巫师3》||港版繁体中文|<a href='https://pan.baidu.com/s/1bpRsNV5'>下载地址</a>|ewqs||
 《刀剑神域失落之歌》||繁中|<a href='https://pan.baidu.com/s/1pMNgLAF'>下载地址</a>|51cg||
 《声名狼藉:次子》||繁中|<a href='https://pan.baidu.com/s/1c4bGtbi'>下载地址</a>|uii6||解压loveps4.com
-《如龙：极》||繁中|<a href='https://pan.baidu.com/s/1c3GH90c'>下载地址</a>|up2o||
+《如龙：极1》||繁中|<a href='https://pan.baidu.com/s/1c3GH90c'>下载地址</a>|up2o||
 《如龙6命之诗》||港版繁体中文|<a href='https://pan.baidu.com/s/1dOTkvk'>下载地址</a>|4eac||
 《血源诅咒：老猎人》||（含dlc）港版繁体中文|<a href='https://pan.baidu.com/s/1jJukBFw'>下载地址</a>|r5al||
 《大蛇无双2蛇魔》||港版繁体中文|<a href='https://pan.baidu.com/s/1nwZvW4T'>下载地址</a>|p4tm||
@@ -223,7 +231,6 @@ PS4用PS2游戏《合金弹头合集》|||<a href='https://pan.baidu.com/s/1HOGp
 《直到黎明血腥突袭VR》||港版中文版|<a href='https://pan.baidu.com/share/init?surl=gcRe4RMfXqqUvfHNAm05PA'>下载地址</a>|v4kd||解压密码：多玩论坛遗忘的泪1制作上传
 《幽灵行动荒野（火线猎杀野境）》||港版中文版|<a href='https://pan.baidu.com/s/1n7VaemnlTihHhlLNQZ1oxA'>下载地址</a>|4nss||解压密码：多玩fkess
 《幽浮2》||（Xcom2）简中|<a href='https://pan.baidu.com/s/1nUN4K1zDdC47fFpu1Q8dJA'>下载地址</a>|zg6q||解压密码：www.ksohu.com
-《恶灵进化》||港版中文版|<a href='https://pan.baidu.com/s/1D4uK0eM_K-FCeBnrPK4EeQ'>下载地址</a>|fzm6||
 《阿斯塔布里德》||美版日英|<a href='https://pan.baidu.com/s/1tk122w7S22MMeeK2pXfteQ'>下载地址</a>|ffg7||
 《毁灭战士》||中文版|<a href='https://pan.baidu.com/s/12I2wM503v2DEk7DQzcGQMg'>下载地址</a>|jhu5||解压密码：加微信号billy5208入微信PS4主机交流群
 《几何战争3维度》||英v1.03|<a href='https://pan.baidu.com/s/1wXaNqenTdVjZFwO7-W9NXg'>下载地址</a>|br30||

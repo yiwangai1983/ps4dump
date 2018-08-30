@@ -9,8 +9,10 @@
 	* **解压密码一般是全都复制上, 包括标点符号空格之类**
 
 
-游戏  | 试用版本 | 中文支持 | 地址 | 密码 | 解压密码 | 补充说明
+游戏  | 适用版本 | 中文支持 | 地址 | 密码 | 解压密码 | 补充说明
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+《弹丸论破合集:重新上弹》||中|<a href='https://pan.baidu.com/s/1yM0w04-Qy3XsL5y1SgulyQ'>下载地址</a>|cmmm|醉貓是一只不会喝酒的貓|dumper@billy5208
+《傲气雄鹰》年度版|5.05|中|<a href='https://pan.baidu.com/s/1IZJAEfhumpiBmUxZupG9-g'>下载地址</a>|8hqo||
 《富豪街DQ&FF 30周年》|5.05|中|<a href='https://pan.baidu.com/s/1jTc2H9FygVM3PSJN1_wIzw'>下载地址</a>|en7t||
 《最后的守护者》|5.05|简|<a href='https://pan.baidu.com/s/1asGuWz4Sm_X7BZZUBZsY0w'>下载地址</a>|kb7d|说ps4内置不支持3t以上硬盘的别下。|v1.03_国行中文含补丁
 《毁灭战士VR》|5.05|中|<a href='https://pan.baidu.com/s/1eXea9q857uz9SgYrzfTYZg'>下载地址</a>|bt2u|suwellcc|包含补丁

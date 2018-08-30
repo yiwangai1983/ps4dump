@@ -71,7 +71,6 @@
 《七大罪布里塔尼亞的旅人》||繁|<a href='https://pan.baidu.com/s/17wei-yDh8BIDi8LFalmFvg' target='_blank'>下载地址</a>|rh9z|感谢gz死神bleach大神无私奉献|
 《银魂乱舞》|||<a href='https://pan.baidu.com/s/1Ub7OcrrQuFQWhmUzRAvcFQ' target='_blank'>下载地址</a>|YsCw||抱歉我看到这资源的时候不知道从哪里来的
 《太鼓达人》||中|<a href='https://pan.baidu.com/s/1BPQITgIjTFYHJli9DL4P8w' target='_blank'>下载地址</a>|irpx||
-《最后守护者》||繁|<a href='https://pan.baidu.com/s/1mjmFgla' target='_blank'>下载地址</a>|mbtu||
 《丧尸围城4：弗兰克的大包裹》||中|<a href='https://pan.baidu.com/s/1l3lN-lShNQY4LxEpxYTXPA' target='_blank'>下载地址</a>|||
 《神奇小子 龙之陷阱3》|5.05|繁|<a href='https://pan.baidu.com/s/1YRWzPTQEa4zTgVJuX8EMtg' target='_blank'>下载地址</a>|tyqd|gz死神bleach|
 《真三国无双 英杰传》||中|<a href='https://pan.baidu.com/s/1ypQV9bU9VlYVcEwGdueLbw' target='_blank'>下载地址</a>|ccvw||

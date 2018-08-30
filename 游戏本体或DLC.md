@@ -59,7 +59,7 @@
 《重力晕眩2》|5.05|繁(机翻)|<a href='https://pan.baidu.com/s/1gTlS7Qiq0E5ZQHNg1xbs_w' target='_blank'>下载地址</a>|udfe||1.11+DLC
 《光明之响 龙奏回音》|5.05|中|<a href='https://pan.baidu.com/s/1NtLS1notrQoQKQxat-j6nA' target='_blank'>下载地址</a>|siip||
 《盐与避难所》||中|<a href='https://pan.baidu.com/s/1KX1ePDZFUI5p712JGMgoDg' target='_blank'>下载地址</a>|8f1t||
-《V！勇者别嚣张R》|5.05||<a href='繁' target='_blank'>下载地址</a>|tbbq||VR,含1.01补丁
+《V！勇者别嚣张R》|5.05|繁|<a href='https://pan.baidu.com/s/1nAbzCdDkiO2R_U7GgCNgDQ' target='_blank'>下载地址</a>|tbbq||VR,含1.01补丁
 《隐龙传：影踪》|||<a href='https://pan.baidu.com/s/1-b7Sp8YvJnd4gSixlBU7-g' target='_blank'>下载地址</a>|trrc||
 《七龍珠FighterZ》||中|<a href='https://pan.baidu.com/s/1VVWVX947ZPtTg9Xfihyngw' target='_blank'>下载地址</a>|h4fj||
 《新世纪战甲大赛 机械化战斗联盟》||中|<a href='https://pan.baidu.com/s/1Ag79uT4glrZPzNev6FG1sQ' target='_blank'>下载地址</a>|sw8t||v1.01

@@ -11,6 +11,7 @@
 
 游戏  | 适用版本 | 中文支持 | 地址 | 密码 | 解压密码 | 补充说明
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+《here they lie》||英|<a href='https://pan.baidu.com/s/1XSTykDw4uEzErVnU6AiYXg'>下载地址</a>|3xyi||VR恐怖游戏
 《弹丸论破合集:重新上弹》||中|<a href='https://pan.baidu.com/s/1yM0w04-Qy3XsL5y1SgulyQ'>下载地址</a>|cmmm|醉貓是一只不会喝酒的貓|dumper@billy5208
 《傲气雄鹰》年度版|5.05|中|<a href='https://pan.baidu.com/s/1IZJAEfhumpiBmUxZupG9-g'>下载地址</a>|8hqo||
 《富豪街DQ&FF 30周年》|5.05|中|<a href='https://pan.baidu.com/s/1jTc2H9FygVM3PSJN1_wIzw'>下载地址</a>|en7t||

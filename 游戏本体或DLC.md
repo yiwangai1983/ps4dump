@@ -254,7 +254,7 @@
 241|女神异闻录5||中|<a href='https://pan.baidu.com/s/1jJjwEW2'>下载地址</a>|r6qe||
 242|辐射4完全版||繁|<a href='https://pan.baidu.com/s/1qZ4jipe'>下载地址</a>|92w7||解压密码:希望这不会发生
 243|战场女武神||繁|<a href='https://pan.baidu.com/s/1htiKD6k'>下载地址</a>|fu3p||解压密码:FuckPs4OFW
-244|最终幻想X|X-2HD重制版||中|<a href='https://pan.baidu.com/s/1dFQ9I3v'>下载地址</a>|btqw||解压密码：苍井空我爱你我是你忠实粉丝我爱你
+244|最终幻想X X-2HD重制版||中|<a href='https://pan.baidu.com/s/1dFQ9I3v'>下载地址</a>|btqw||解压密码：苍井空我爱你我是你忠实粉丝我爱你
 245|数码暴龙故事网络侦探||中|<a href='https://pan.baidu.com/s/1ggdwM6v'>下载地址</a>|ixsk||解压密码：有事加微信号:billy5208
 246|最终幻想零式||中|<a href='https://pan.baidu.com/s/1qZwbmUC'>下载地址</a>|68ai||解压密码：不知道真的不知道问billy5208
 247|狂战传说||繁|<a href='https://pan.baidu.com/s/1c3ei0yW'>下载地址</a>|hqh5||解压密码：Theoldplayers
